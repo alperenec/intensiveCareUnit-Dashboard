@@ -2,7 +2,6 @@
 # 🏥 Intensive Care Unit Dashboard
 **⚠️ The source code is not shared in this repository due to privacy and company policies. However, this README provides a comprehensive overview of the project, including its functionality, architecture, and techs used.**
 
-![Dashboard Preview](https://github.com/user-attachments/assets/dbe9188c-3d6a-4cf1-a576-3afe0217242c)
 
 
 ---
@@ -12,8 +11,6 @@
 The Patient Vital Monitoring Dashboard is a real-time monitoring solution designed for healthcare professionals to remotely track vital signs of multiple intensive care patients simultaneously. The system connects to medical devices via MQTT protocol, parses HL7 messages, and displays critical patient data in a responsive dashboard interface.
 
 
-
-https://github.com/user-attachments/assets/dd1b592d-a8a9-4a1c-804d-cda5633baedb
 
 
 
